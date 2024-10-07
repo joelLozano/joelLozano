@@ -1,16 +1,13 @@
-## Hi there 👋
+![Portada](/portada.png)
 
-<!--
-**joelLozano/joelLozano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Software Engenier | iOS Developer | Flutter Enthusiast 🚀
 
-Here are some ideas to get you started:
+¡Bienvenido a mi perfil de GitHub! Soy un desarrollador especializado en la creación de aplicaciones móviles para la plataforma iOS. Mi objetivo es crear soluciones eficientes y escalables utilizando las mejores prácticas en arquitectura de software y el ecosistema de Apple.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Sobre Mí
+
+Soy un apasionado del desarrollo de aplicaciones móviles, con un enfoque en **Swift** y recientemente **Flutter**. 
+
+En mis tiempos libres me gusta compartir contenido sobre desarrollo en general, ademas de impartir clases sobre desarrollo web. 
+
+Este repositorio encontraras algunos ejercicios vistos en clase e incluso algunos projectos personales. 
